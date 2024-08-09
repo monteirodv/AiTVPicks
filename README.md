@@ -54,10 +54,66 @@ Welcome to the **AI-Powered Movie & TV Series Recommendations** app! This projec
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
+**Enjoy your personalized movie and TV series recommendations!** 🍿🎥
 
-For any questions or suggestions, feel free to [contact me](mailto:your-email@example.com).
+
+
+# 🎬 Recomendações de Filmes e Séries com IA 🍿
+
+[🇬🇧 English](#-ai-powered-movie--tv-series-recommendations) | [🇧🇷 Português](#-recomendações-de-filmes-e-séries-com-ia)
+
+Bem-vindo ao **Aplicativo de Recomendações de Filmes e Séries com IA**! Este projeto utiliza IA para fornecer sugestões personalizadas de filmes e séries de TV com base nas suas preferências.
+
+## 🚀 Funcionalidades
+
+- **Recomendações com IA**: Receba sugestões personalizadas de filmes e séries.
+- **Design Elegante**: UI moderna e responsiva com Tailwind CSS.
+- **Interatividade**: Formulário de busca dinâmico com recomendações em tempo real.
+- **Apelo Visual**: Emojis flutuantes e elementos animados para uma experiência divertida.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML**: Estrutura e layout.
+- **Tailwind CSS**: Estilização e design responsivo.
+- **JavaScript**: Funcionalidade interativa e integração com APIs.
+- **Google Gemini API**: Geração de conteúdo baseada em IA.
+- **OMDb API**: Recuperação de dados de filmes e séries.
+
+## 📦 Instalação
+
+1. **Clone o repositório:**
+
+    ```bash
+    git clone https://github.com/your-username/ai-movie-tv-recommendations.git
+    ```
+
+2. **Navegue até o diretório do projeto:**
+
+    ```bash
+    cd ai-movie-tv-recommendations
+    ```
+
+3. **Abra `index.html` no seu navegador.**
+
+## 🖼️ Visualização
+
+![Visualização](preview-image.png)
+
+## ⚙️ Chaves de API
+
+- **Chave da Google Gemini API**: Substitua `'AIzaSyAI2UxJZzxJdtFUx6nI_615n_XFW964HEM'` pela sua própria chave.
+- **Chave da OMDb API**: Substitua `'94b8a97e'` pela sua própria chave.
+
+## 💡 Como Funciona
+
+1. **Digite Suas Preferências**: Descreva suas preferências de filmes e séries no formulário de busca.
+2. **Receba Recomendações**: A IA analisará sua entrada e sugerirá títulos relevantes.
+3. **Veja os Resultados**: Veja as recomendações com informações detalhadas e pôsteres.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
-**Enjoy your personalized movie and TV series recommendations!** 🍿🎥
+**Aproveite suas recomendações personalizadas de filmes e séries!** 🍿🎥
